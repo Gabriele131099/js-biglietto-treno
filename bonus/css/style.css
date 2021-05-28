@@ -19,3 +19,8 @@
     width: 100%;
     height: 300px;
 }
+
+.second-section
+{
+    flex-wrap: wrap;
+}
